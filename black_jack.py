@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 13 10:16:08 2019
 
-@author: Sooraj
-"""
-
-# Defining global variables
 import random
 
+# Defining global variables
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
 ranks = ('Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten'
          , 'Jack', 'Queen', 'King', 'Ace')
