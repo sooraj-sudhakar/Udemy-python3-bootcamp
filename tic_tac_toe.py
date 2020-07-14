@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 30 09:11:05 2019
-
-@author: Sooraj
-"""
 
 from IPython.display import clear_output
 
