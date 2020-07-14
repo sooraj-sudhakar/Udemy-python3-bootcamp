@@ -1,4 +1,4 @@
-# Udemy Python3 bootcamp <img align = "center" src="https://github.com/sooraj-sudhakar/Udemy-python3-bootcamp/blob/master/default-meta-image.png" width="168"> 
+# Python3 bootcamp <img align = "center" src="https://github.com/sooraj-sudhakar/Udemy-python3-bootcamp/blob/master/default-meta-image.png" width="168"> 
 
 This is the collecion of excercises and projects that I have done as part of the Udemy's  course **Complete Python bootcamp : Go from zero to hero in python3**
 
