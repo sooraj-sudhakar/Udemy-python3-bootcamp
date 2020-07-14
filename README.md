@@ -8,7 +8,7 @@ If *Anaconda* package is installed by default then you wont need to install any 
 pip install -r requirements.txt
 
 ```
-### Milestone project 1 - Tic tac toe
+### Milestone project 1 - [Tic tac toe](https://github.com/sooraj-sudhakar/Udemy-python3-bootcamp/blob/master/tic_tac_toe.py)
 Program alternates between two players to get the input (**X** & **O**) and checks if there is match between same symbols either : *horizontally*, *vertically* or *diagonally*.
 
 <p align="center">
@@ -17,7 +17,7 @@ Program alternates between two players to get the input (**X** & **O**) and chec
 
 The program can be run from terminal using `python tic_tac_toe.py`
 
-### Milestone project 2 - Black jack
+### Milestone project 2 - [Black jack](https://github.com/sooraj-sudhakar/Udemy-python3-bootcamp/blob/master/black_jack.py)
 Program alternates between *dealer* and *player*. The player can place the bet and then start drawing the card from the deck. The dealer will also draw the card. The dealer's first card will be hidden. At each step the player can check if the total count and make decision. The total count should not be greater than 21. Whoever reaches 21 first will be the winner. If the total count goes above 21, its a loss and the bet so placed will be lost. There is a special condtion for the ace card which has a dual value of 11 or 1 which is set depending on the conditions.
 
 <p align="center">
